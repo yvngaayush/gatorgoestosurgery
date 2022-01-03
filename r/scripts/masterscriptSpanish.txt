@@ -1,0 +1,59 @@
+{"Español":
+	{"Scene02":
+		{"2.1":"Al llegar al hospital con tu guardián, vas a ir al mostrador de registro",
+        	"2.2":"Tu guardián hablará con la persona en el mostrador y después recibirás una pulsera para ponerte que lleva tu nombre.",
+        	"2.3":" ¡Buen trabajo!  Encontraste la pulsera hospitalaria.  ¡Ganaste una estrella!  ¡Ahora puedes escribir tu nombre en la pulsera!",
+        	"2.4":"¡Escribe tu nombre!",
+        	"2.5":"¡Ya te has registrado!  Es la hora de irse a la sala de espera."},
+    	"Scene04":
+        	{"4.1":"Después de recibir tu pulsera en el mostrador de registro, te sentarás y esperarás hasta que llamen tu nombre.",
+        	"4.2":"Puedes llevar tus propios juguetes de casa para jugar mientras esperas.  ¡También habrá juegos con los que puedes jugar aquí!",
+        	"4.3":"¡Solucione el rompecabezas!",
+        	"4.4":"¡Ya te han llamado por nombre!  Es la hora de conocer a tu enfermera e ir a tu habitación de hospital."},
+    	"Scene06":
+        	{"6.1":"Cuando llamen tu nombre, vas a ir de la sala de espera al área preoperatoria.",
+        	"6.2":"Aquí conocerás a tu enfermera.  Él te llevará arriba a tu habitación de hospital.  ¡Oprima el botón del ascensor para subir!"},
+    	"Scene07":
+        	{"7.1":"Vas a un lugar que tiene una cama de hospital para ti, pero antes de irnos tu enfermera te dará tus pijamas de hospital y pesarte.",
+        	"7.2":"¡Buen trabajo!  ¡Encontraste la bata de hospital!  ¡Recibes una estrella!  Ahora, ¡arrastra los pijamas y déjalos en el aligátor, después colócalo encima de la báscula!",
+        	"7.3":"¡Ya terminaste!  ¡Es la hora de irte a tu habitación de hospital!"},
+    	"Scene08":
+        	{"8.1":"Ahora, tu enfermera te llevará a tu cama de hospital.  Te quedarás aquí hasta que sea la hora de tu cirugía.",
+        	"8.2":"Tu enfermera usará herramientas especiales para medirte la presión arterial, la respiración, la temperatura, y el latido de corazón.  ¡Echa un vistazo más cercana y examina cómo funcionan estas herramientas!",
+        	"8.3":"Antes de que te lleven al quirófano, ¡vas a conocerles a unos de tus médicos!  Ellos están muy emocionados de conocerte también.",
+        	"8.4":"¡Adelante Gators!"},
+    	"Scene09":
+        	{"9.1":"Primero, tu enfermera tomará tu presión aterial.  El tensiómetro va a apretar a tu brazo firmemente.  Esto se le indica a tu enfermera cómo mueve la sangre por tu cuerpo.",
+        	"9.2":"¡Buen trabajo!  ¡Encontraste el tensiómetro!  Ahora, arrástralo al brazo del paciente. ",
+        	"9.3":"Entonces, tu enfermera va a ponerte una pegatina o un clip blando en un dedo o en un dedo del pie que nos dice cómo late tu corazón y cómo respiras.  Esto se llama el oxímetro de pulso.  Cuando la luz se ponga roja, esto significa que funciona.",
+        	"9.4":"¡Buen trabajo!  ¡Encontraste el oxímetro de pulso!  ¡Recibes una estrella!  Ahora, ¡arrástralo al dedo del paciente!",
+        	"9.5":"Entonces, tu enfermera va a comprobar tu temperatura con un termómetro.  Es posible que se te sienta un poco fría, pero no duele.",
+        	"9.6":"¡Buen trabajo!  ¡Encontraste el termómetro!  ¡Recibes una estrella!  Ahora, ¡pásalo sobre la frente del paciente!",
+        	"9.7":"Entonces, tu enfermera te va a poner unas pegatinas encima del pecho para medir el latido del corazón.",
+        	"9.8":"¡Buen trabajo!  ¡Encontraste el ECG!  ¡Coloca las pegatinas encima del pecho del aligátor!",
+        	"9.9":"¡Buen trabajo!  ¡Ahora estás listo para tu cirugía!"},
+    	"Scene11":
+        	{"11.1":"Cuando ya es hora de salir para el quirófano, puedes darle abrazos y besos a tu familia y traer contigo tu animal de peluche, manta, u otro objeto especial de confort.",
+        	"11.2":"Entonces, vas a dar un paseo en tu cama hasta el quirófano.  ¡Habrá muchos médicos esperándote para conocerte!  ¡Abra las puertas para verlos!"},
+    	"Scene10":
+        	{"10.1":"Esto es cómo parece el quirófano.  Parece que haya muchas cosas en esta sala pero todo no van a usar todo para ti.",
+        	"10.2":"Los enfermeros te ayudarán subir a la cama del quirófano.  ¡Mira!  Aquí está la anestesióloga que conociste antes y ella quiere demostrarte cómo funciona la máquina de medicina soñolienta."},
+    	"Scene12":
+        	{"12.1":"La anestesióloga usa esta máquina para asegurarle que recibes la dosis correcta de medicina soñolienta.",
+        	"12.2":"Vas a recibir una mascarilla para la medicina soñolienta.  Esta mascarilla es suave y blanda y queda sobre la nariz y la boca.  ¡También puedes escoger un sabor de medicina!",
+        	"12.3":"¡Buen trabajo!  ¡Econtraste la mascarilla de medicina soñolienta!  ¡Recibes una estrella!  ¡No olvides de escoger un sabor!"},
+    	"Scene13":
+        	{"13.1":"Puedes escoger olores divertidos para la medicina soñolienta como sandía, chicle, o fresa.  ¿Cuál prefieres?",
+        	"13.2":"Cuando te duermas, ¡será la hora de tu cirugía!",
+        	"13.3":"¡Adelante Gators!"},
+    	"Scene14":
+        	{"14.1":"Cuando los medicos terminen, terminarán de darte la medicina soñolienta para que tu cuerpo puede despertarse.  También te despertarás con una IV en la brazo o la mano.  Esto es para hidratarte después de tu cirugía.",
+        	"14.2":"Después de despertarte, tu enfermera puede darte una paleta o algo de beber."},
+    	"PopsicleScene":
+        	{"pop.1":"¡Toca para comer la paleta!",
+        	"pop.2":"¡Adelante Gators!"},
+    	"Scene15":
+        	{"15.1":"¡Ya terminaste!  ¡Es la hora de salir con tu guardian!",
+        	"15.2":"¡Adelante Gators!"},
+"Créditos":"Programación excepcional y diseño gráfico: Daniel El Basha, Danielle Miller, Liv Bowman, Kendall Brandt, Rani Mahmoudi, Andrew Sowinski, Erika Grasso, Mohona Ahmed, Chloeynard, Katieann, Josh Swerdlow, Blake McDonald, Laura Lozano, Courtney Wirg, Priya Atodaria, Shane Rambo, Jennifer McCloskey. Apoyo profesorado de: Gaby Hernandez, Stephen Hugo Arce. Traducción al español provista por Julie Tugya. Adaptado de materiales proveído por Amy Wegner y Naomi Martinez en UF Shands Child Life Services."
+}
